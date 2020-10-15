@@ -1,4 +1,4 @@
-module github.com/wenyingd/ofnet
+module github.com/gran-vmv/ofnet
 
 go 1.13
 
